@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+void verificação;
+void conta;
+
+int main()
+{
+	int a;
+	int b;
+	int i;
+
+		printf("Escreva um numero: \n");
+	scanf("%d", &a);
+
+}
+
+void conta{
+
+
+
+}
